@@ -32,9 +32,11 @@
 
 
 공룡 << 김푸름님이 좋아하심.. 특히 벨로시랩터 좋아한다고 하십니다<br/> 
-<img src="./figures/dino.png" width="600px">
+<img src="./figures/dino.png" width="600px"> <br/>
 커피 << 이송하님이 좋아하심.. 특히 이번에 구매한 메이플향 나는 원두를 좋아합니다<br/>
 <img src="./figures/beans.png" width="450px">
+
+
 
 ***
 ## 학교에서 제공 받을 수 있는 기회들
