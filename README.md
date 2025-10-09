@@ -144,7 +144,7 @@ https://career.kookmin.ac.kr/
             2. sixth sense project: 
         입력: 카메라, 센서를 통해 디지털 세계
              에 입력을 함. 기존 볼 마우스에서              track ball을 개조하여 데이터
-             입력을 할 수 있도록…
+             입력을 할 수 있도록...
         출력: 빔프로젝터를 통해 출력된 영상과 
                  interaction을 함.
         ex) 종이나 손바닥에 프로젝트를 하고, 특
