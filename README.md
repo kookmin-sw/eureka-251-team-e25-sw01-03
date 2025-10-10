@@ -30,10 +30,15 @@
 여행: 그리스, 이탈리아 << 김세인님이 다녀오심, 김푸름님이 굉장히 부러워하심
 
 
-공룡 << 김푸름님이 좋아하심.. 특히 벨로시랩터 좋아한다고 하십니다<br/> 
-<div markdown="1">
-  <img src="./figures/dino.png" width="600px"> <br/>  
-</div>
+<details>
+  <summary>공룡 << 김푸름님이 좋아하심.. 특히 벨로시랩터 좋아한다고 하십니다.
+    <div markdown="1">
+      <img src="./figures/dino.png" width="600px"> <br/> 
+    </div>
+
+  </summary>
+</details>
+<br/>
 
 커피 << 이송하님이 좋아하심.. 특히 이번에 구매한 메이플향 나는 원두를 좋아합니다<br/>
 <img src="./figures/beans.png" width="450px">
