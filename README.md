@@ -31,12 +31,10 @@
 
 
 <details>
-  <summary>공룡 << 김푸름님이 좋아하심.. 특히 벨로시랩터 좋아한다고 하십니다.
+  <summary>공룡 << 김푸름님이 좋아하심.. 특히 벨로시랩터 좋아한다고 하십니다.</summary>
     <div markdown="1">
       <img src="./figures/dino.png" width="600px"> <br/> 
     </div>
-
-  </summary>
 </details>
 <br/>
 
