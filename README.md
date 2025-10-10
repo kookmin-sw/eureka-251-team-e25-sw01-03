@@ -31,7 +31,7 @@
 
 
 <details>
-  <summary>공룡 << 김푸름님이 좋아하심.. 특히 벨로시랩터 좋아한다고 하십니다.</summary>
+  <summary>🐉공룡 << 김푸름님이 좋아하심.. 특히 벨로시랩터 좋아한다고 하십니다.</summary>
     <div markdown="1">
       <img src="./figures/dino.png" width="600px"> <br/> 
     </div>
@@ -39,7 +39,7 @@
 <br/>
 
 <details>
-  <summary>커피 << 이송하님이 좋아하심.. 특히 이번에 구매한 메이플향 나는 원두를 좋아합니다.</summary>
+  <summary>☕커피 << 이송하님이 좋아하심.. 특히 이번에 구매한 메이플향 나는 원두를 좋아합니다.</summary>
     <div markdown="1">
       <img src="./figures/beans.png" width="600px"> <br/> 
     </div>
