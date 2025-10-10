@@ -171,11 +171,12 @@ https://career.kookmin.ac.kr/
 
 - **이송하**:<br/>
 상용화 여부
-🏎️ [현대위아: 자율주행 물류로봇 AMR 상용화](https://www.hyundai-wia.com/pr/press_view.asp?flag=CAST&gubun=KO&keyIdx=4821)
-🤖 [Tesla: optimus](https://www.youtube.com/watch?v=cpraXaw7dyc)
+🏎️ [현대위아: 자율주행 물류로봇 AMR 상용화](https://www.hyundai-wia.com/pr/press_view.asp?flag=CAST&gubun=KO&keyIdx=4821) <br/>
+🤖 [Tesla: optimus](https://www.youtube.com/watch?v=cpraXaw7dyc)<br/>
+
 연구 동향
-VLA: Vision Language Action model
-RL: Reinforcement Learning
+VLA: Vision Language Action model<br/>
+RL: Reinforcement Learning<br/>
 
 
 
