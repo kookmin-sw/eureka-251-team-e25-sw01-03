@@ -38,8 +38,13 @@
 </details>
 <br/>
 
-커피 << 이송하님이 좋아하심.. 특히 이번에 구매한 메이플향 나는 원두를 좋아합니다<br/>
-<img src="./figures/beans.png" width="450px">
+<details>
+  <summary>커피 << 이송하님이 좋아하심.. 특히 이번에 구매한 메이플향 나는 원두를 좋아합니다.</summary>
+    <div markdown="1">
+      <img src="./figures/beans.png" width="600px"> <br/> 
+    </div>
+</details>
+<br/>
 
 
 
