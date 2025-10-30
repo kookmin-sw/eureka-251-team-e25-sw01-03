@@ -1,6 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
 # 유레카 1분반 3팀의 활동 보고서 입니다.
 
+<p align="center">
+  <img src="./figures/banner.png" width="800" alt="2050 이모저모">
+</p>
+
 ## 1️⃣ 팀원 소개
 
 | **이름** | **전공** | **관심사** | **그 외** |
