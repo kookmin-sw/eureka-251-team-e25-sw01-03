@@ -457,7 +457,7 @@ RL: Reinforcement Learning<br/>
 
 ## 5. 증빙 자료
 <p align="center">
-  <img src="./figures/mntr.png" width="800" alt="멘토님과의 사진 한 장">
+  <img src="./figures/mntr.jpg" width="800" alt="멘토님과의 사진 한 장">
 </p>
 
 
