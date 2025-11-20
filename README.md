@@ -552,9 +552,10 @@ RL: Reinforcement Learning<br/>
 
 ---
 ## 5. 증빙 자료
-<p align="center">
-  <img src="C:\Users\kpr88\OneDrive\사진\스크린샷\스크린샷 2025-11-20 155218.png" width="800" alt="교수님과의 사진 한 장">
-</p>
+
+
+
+
 
 ## 활동을 마친 소감
 
