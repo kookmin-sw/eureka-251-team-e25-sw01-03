@@ -549,7 +549,7 @@ RL: Reinforcement Learning<br/>
 
 ---
 ## 5. 증빙 자료
-
+<img width="973" height="727" alt="Image" src="https://github.com/user-attachments/assets/8e1ef6d8-b20c-4d24-834c-2355db77b00f" />
 
 
 
